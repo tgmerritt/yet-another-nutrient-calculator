@@ -11,7 +11,7 @@
 
 ## Template
 
-Please use [alpha.calc.petalphile.com](http://alpha.calc.petalphile.com) for the context of the translations.
+Please use [calc.petalphile.com](http://calc.petalphile.com) for the context of the translations.
 
 	units:
 	  element: Element
@@ -21,7 +21,7 @@ Please use [alpha.calc.petalphile.com](http://alpha.calc.petalphile.com) for the
 	  imp_gal: Imp gal
 	  Liter: L
 	  milliliter: mL
-	  five_milliter: tsp/caps
+	  five_milliliter: tsp/caps
 	  pump_bottle: pumps
 	  grams: g
 	  milligrams: mg
@@ -95,8 +95,10 @@ Notice some stuff has placeholders (%1, %2, etc) or links (<a href...) -- please
 
 ## Contributions and Examples
 
+Ordered by the date they were contributed.
+
 ### Spanish
-Spanish translation file [es.yml](https://github.com/flores/yet-another-nutrient-calculator/blob/master/i18n/es.yml) contributed by [DanielSev](http://www.barrreport.com/member.php/34196-DanielSev) and [jagg81](http://github.com/jagg81).
+Spanish translation file [es.yml](https://github.com/flores/yet-another-nutrient-calculator/blob/master/i18n/es.yml) contributed by [DanielSev](http://www.barrreport.com/member.php/34196-DanielSev) and [Jorge Gonzalez](http://github.com/jagg81).
 
 	units:
 	  element: Elemento/Compuesto
@@ -106,7 +108,7 @@ Spanish translation file [es.yml](https://github.com/flores/yet-another-nutrient
 	  imp_gal: galones imperiales (UK)
 	  Liter: L
 	  milliliter: mL
-	  five_milliter: cucharilla de té/tapón/5 ml
+	  five_milliliter: cucharilla de té/tapón/5 ml
 	  pump_bottle: pumps
 	  grams: g
 	  milligrams: mg
@@ -188,7 +190,7 @@ Romanian file [ro.yml](https://github.com/flores/yet-another-nutrient-calculator
 	  imp_gal: gal UK
 	  Liter: L
 	  milliliter: mL
-	  five_milliter: linguriţe
+	  five_milliliter: linguriţe
 	  pump_bottle: pompe
 	  grams: g
 	  milligrams: mg
@@ -265,6 +267,22 @@ Dutch translation file [nl.yml](https://github.com/flores/yet-another-nutrient-c
 ### German
 
 German translation file [de.yml](https://github.com/flores/yet-another-nutrient-calculator/blob/master/i18n/de.yml) contributed by [WasserPest](https://github.com/wasserpest)
+
+### Japanese
+
+Japanese translation file [ja.yml](https://github.com/flores/yet-another-nutrient-calculator/blob/master/i18n/ja.yml) contributed by [Tyler Merritt](https://github.com/tgmerritt)
+
+### Brazilian Portuguese
+
+Brazilian Portuguese file [pt-br.yml](https://github.com/flores/yet-another-nutrient-calculator/blob/master/i18n/pt-br.yml) contributed by [Carlos Olivera](https://github.com/oliveiracarlos).  This translation is also an example of using HTML escape codes in your translation.
+
+### Italian
+
+Italian translation [it.yml](https://github.com/flores/yet-another-nutrient-calculator/blob/master/i18n/it.yml) contributed by [rickertikari](https://github.com/rickertikari)
+
+### Lithuanian
+
+Lithuanian translation [lt.yml](https://github.com/flores/yet-another-nutrient-calculator/blob/master/i18n/lt.yml) contributed by Tautvilas.
 
 ## Goals
 
